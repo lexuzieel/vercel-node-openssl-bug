@@ -1,0 +1,19 @@
+{
+  "name": "vercel-node-openssl-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexuzieel/vercel-node-openssl-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexuzieel/vercel-node-openssl-bug/issues"
+  },
+  "homepage": "https://github.com/lexuzieel/vercel-node-openssl-bug#readme"
+}
