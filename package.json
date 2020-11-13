@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "vercel-build": "yum install -y openssl",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
