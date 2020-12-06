@@ -1,3 +1,11 @@
+/*
+ * This function requires OpenSSL Lambda layer in order to function:
+ * https://github.com/alexandredavi/openssl-lambda-layer
+ *
+ * Layer ARN: arn:aws:lambda:YOUR_REGION:034541671702:layer:openssl-lambda:1
+ *
+ */
+
 const { spawn } = require('child_process');
 
 exports.handler = async(event) => {
